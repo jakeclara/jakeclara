@@ -1,6 +1,6 @@
 ## Hi, I'm Jake 👋
 
-Junior software developer focused on backend and data-driven applications using Java and Spring Boot. I build internal tools that streamline workflows and support day-to-day operations. My background leading operations informs a practical, maintainable approach to building software.
+Junior software developer focused on backend and data-driven applications using Java and Spring Boot. I build clean, maintainable systems that streamline workflows, improve operational visibility, and solve real business problems. My background in hospitality operations gives me a practical perspective on system design. I am interested in data modeling, secure backend design, and building modular systems that scale effectively over time, while continuously learning and applying industry best practices.
 
 ### 🔭 What I focus on
 - **Internal tools:** Software that automates manual tasks and turns data into actionable insights  
