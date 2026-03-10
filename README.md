@@ -18,7 +18,7 @@ Junior software developer focused on backend and data-driven applications using 
 
 ### 📦 Projects
 - **[Inventory Management Application](https://github.com/jakeclara/inventory-tracker)**  
-Java / Spring Boot application for tracking inventory with authentication and role-based access. *(in progress)*
+Java / Spring Boot application for tracking inventory with authentication and role-based access.
 
 - **[Hospitality Analytics Dashboard](https://github.com/jakeclara/venueiq)**  
 Python-based analytics dashboard for visualizing operational metrics and reporting trends.  
