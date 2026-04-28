@@ -1,6 +1,6 @@
 ## Hi, I'm Jake 👋
 
-Software engineer focused on backend applications using Java and Spring Boot. I build maintainable systems that support workflows, improve operational visibility, and solve real-world problems. With a background in hospitality operations, I bring a practical perspective on how software behave under pressure and how issues surface in real environments. I’m particularly interested in backend design and understanding how applications function, fail, and can be improved over time.
+Software engineer focused on backend applications using Java and Spring Boot. I build maintainable systems that support workflows, improve operational visibility, and solve real-world problems. With a background in hospitality operations, I bring a practical perspective on how software behaves under pressure and how issues surface in real environments. I’m particularly interested in backend design and understanding how applications function, fail, and can be improved over time.
 
 ### 🔭 What I focus on
 - **Internal tools:** Automating workflows and turning data into actionable insights  
