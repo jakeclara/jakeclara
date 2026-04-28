@@ -1,19 +1,19 @@
 ## Hi, I'm Jake 👋
 
-Software engineer focused on backend and data-driven applications using Java and Spring Boot. I build clean, maintainable systems that streamline workflows, improve operational visibility, and solve real business problems. My background in hospitality operations gives me a practical perspective on system design. I am interested in data modeling, secure backend design, and building modular systems that scale effectively over time, while continuously learning and applying industry best practices.
+Software engineer focused on backend applications using Java and Spring Boot. I build maintainable systems that support workflows, improve operational visibility, and solve real-world problems. With a background in hospitality operations, I bring a practical perspective on how systems behave under pressure and how issues surface in real environments. I’m particularly interested in backend design and understanding how applications function, fail, and can be improved over time.
 
 ### 🔭 What I focus on
-- **Internal tools:** Software that automates manual tasks and turns data into actionable insights  
-- **Software design:** Modular, scalable, and maintainable systems built by breaking problems into manageable pieces  
+- **Internal tools:** Automating workflows and turning data into actionable insights  
+- **Software design:** Breaking down problems into modular, maintainable components  
 - **Databases:** Thoughtful schema design and data organization to support reliability and growth  
-- **Security awareness:** Applying secure coding practices and proactive risk thinking from the start  
+- **System behavior:** Understanding how applications operate, respond, and fail under different conditions 
 - **Collaboration & communication:** Translating requirements between technical and non-technical stakeholders and iterating with feedback
 
 ### 🧰 Tech stack
 - **Primary:** Java, Spring Boot (MVC, Data JPA, Security)    
 - **Databases:** PostgreSQL, MongoDB
 - **Testing:** JUnit, Mockito, Spring Test
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Tools:** Postman, Git, GitHub, VS Code, IntelliJ IDEA
 - **Also used:** Python, JavaScript
 
 ### 📦 Projects
