@@ -1,6 +1,6 @@
 ## Hi, I'm Jake 👋
 
-Software engineer focused on backend applications using Java and Spring Boot. I build maintainable systems that support workflows, improve operational visibility, and solve real-world problems. With a background in hospitality operations, I bring a practical perspective on how systems behave under pressure and how issues surface in real environments. I’m particularly interested in backend design and understanding how applications function, fail, and can be improved over time.
+Software engineer focused on backend applications using Java and Spring Boot. I build maintainable systems that support workflows, improve operational visibility, and solve real-world problems. With a background in hospitality operations, I bring a practical perspective on how software behave under pressure and how issues surface in real environments. I’m particularly interested in backend design and understanding how applications function, fail, and can be improved over time.
 
 ### 🔭 What I focus on
 - **Internal tools:** Automating workflows and turning data into actionable insights  
@@ -18,10 +18,10 @@ Software engineer focused on backend applications using Java and Spring Boot. I 
 
 ### 📦 Projects
 - **[Inventory Management Application](https://github.com/jakeclara/inventory-tracker)**  
-Java / Spring Boot application for tracking inventory with authentication and role-based access.
+Java / Spring Boot application for managing inventory with role-based access, validation, and error handling across workflows.
 
 - **[Hospitality Analytics Dashboard](https://github.com/jakeclara/venueiq)**  
-Python-based analytics dashboard for visualizing operational metrics and reporting trends.  
+Python-based analytics dashboard for aggregating and visualizing operational data with structured logging and data processing pipelines. 
 
 
 ### 🔗 Links
